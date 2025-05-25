@@ -1,0 +1,27 @@
+
+ -----------------------------MCS-219--------------------------------------------------
+
+➢ What is object oriented analysis and design ? Explain its advantages.
+➢ What is UML? What is the advantage of using UML? Can you name the types of modeling?
+➢ Difference Between Structured analysis and object oriented analysis.
+➢ Object Modeling 
+➢ Explain Dynamic modeling with example
+➢ Explain functional modeling with example
+➢ Concurrency Identification and manage
+➢ Relational database vs. OO Database 
+➢ Inheritance and Abstraction
+➢ How do we implement the concept of association ? Explain with an example.
+How is a one-to-many association different from a one-to-one association ? 
+➢ How multiple inheritance differs from multilevel inheritance ? Explain with
+suitable example for each.
+
+➢ Explain aggregation , generalization, specialization. 
+➢ Integrity Constraints 
+➢ Optimal Association 
+➢ Implementing association as class 
+➢ Explain persistency of data. What is serialization? Where it used and why?
+➢ Relational Database for object models
+➢ What is the use of object IDs ? 
+➢ Mapping object class to tables 
+➢ How to map association to tables 
+➢ How to map generalization to tables
